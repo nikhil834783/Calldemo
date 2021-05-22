@@ -1,0 +1,4 @@
+#Sat May 22 19:23:02 IST 2021
+base.0=/Users/yashcomputers/Documents/calldemo/calltestapk/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
